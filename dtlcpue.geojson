@@ -10,7 +10,7 @@
       "properties": {
         "id": null,
         "state_code": 9,
-        "state_name": "DistritoLocal1"
+        "state_name": "DistritoLocal01"
       },
       "geometry": {
         "type": "Polygon",
