@@ -10,7 +10,7 @@
       "properties": {
         "id": null,
         "state_code": 9,
-        "state_name": "Distrito Federal"
+        "state_name": "DistritoLocal1"
       },
       "geometry": {
         "type": "Polygon",
